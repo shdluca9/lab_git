@@ -1,0 +1,2 @@
+print("linia 1")
+
